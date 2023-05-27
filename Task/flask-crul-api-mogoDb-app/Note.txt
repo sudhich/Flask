@@ -1,0 +1,3 @@
+https://webninjadeveloper.com/python/build-a-python-crud-rest-api-in-flask-and-mongodb-using-flask-pymongo-library-in-browser/
+https://iq.opengenus.org/mongodb-crud-operations-with-python/
+https://github.com/DeepranjanG/calculator
